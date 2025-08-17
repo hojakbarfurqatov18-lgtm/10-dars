@@ -1,0 +1,105 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #101220;
+}
+
+.box {
+    color: rgb(255, 255, 255);
+    background-color: #101220;
+    border-radius: 20px;
+}
+
+.boxcha {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn {
+    background-color: #BFAFF2;
+    width: 175px;
+    height: 50px;
+    opacity: 1px;
+    border-radius: 15px;
+}
+
+.uuu {
+    background-color: #101220;
+    transition: relative;
+}
+
+.yt {
+    width: 325px;
+    height: 240px;
+    opacity: 1px;
+    border-radius: 32px;
+    background-color: #232028;
+    transition: absolute;
+}
+
+p {
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
+h2 {
+    margin-left: 70px;
+    margin-top: 30px;
+}
+
+.new {
+    display: flex;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.boxes {
+    background-color: #0C0E1866;
+    height: 64px;
+    justify-content: space-between;
+    opacity: 1px;
+    top: 838px;
+    padding-top: 20px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+}
+
+.btn {
+    transition: 4s;
+    background-color: #BFAFF2;
+
+}
+
+.www {
+    padding-left: 500px;
+}
+
+.jjj {
+    padding-left: 700px;
+}
+
+.box {
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 32px;
+    letter-spacing: 0%;
+    text-align: center;
+
+}
